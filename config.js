@@ -10,7 +10,7 @@ const CONFIG = {
 
   // El ID de tu base (empieza con "app")
   // Lo encuentras en la URL: airtable.com/appXXXXXX/...
-  AIRTABLE_BASE_ID: "appLZmvSqZVeMc9Rs/tbl36pRr3kKnlUaDL",
+  AIRTABLE_BASE_ID: "appLZmvSqZVeMc9Rs",
 
   // El nombre exacto de tu tabla
   AIRTABLE_TABLE: "Eventos Lima",
