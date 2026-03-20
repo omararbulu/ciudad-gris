@@ -13,5 +13,5 @@ const CONFIG = {
   AIRTABLE_BASE_ID: "appLZmvSqZVeMc9Rs/tbl36pRr3kKnlUaDL",
 
   // El nombre exacto de tu tabla
-  AIRTABLE_TABLE: "ciudad-gris-eventos.csv",
+  AIRTABLE_TABLE: "Eventos Lima",
 };
